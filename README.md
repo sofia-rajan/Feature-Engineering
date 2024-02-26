@@ -47,7 +47,7 @@ To run the notebook:
 ## Data Source
 
 The Zomato dataset used in this project is available on GitHub:
-[Zomato Dataset]([Zomato_Dataset](https://github.com/sofia-rajan/Feature-Engineering/blob/e17e0c4bd9afecff1daaa498d32e65ac836e0a52/zomato.csv))
+[https://github.com/sofia-rajan/Feature-Engineering/blob/e17e0c4bd9afecff1daaa498d32e65ac836e0a52/zomato.csv]([Zomato_Dataset](https://github.com/sofia-rajan/Feature-Engineering/blob/e17e0c4bd9afecff1daaa498d32e65ac836e0a52/zomato.csv))
 
 ## Dependencies
 
