@@ -130,8 +130,8 @@ print("- Online orders seem to have a slight impact on ratings.")
 
 ## Step 8: Documentation and Reporting
 
-Finally, document your analysis in a clear and concise manner. Create a report or presentation summarizing the analysis process, findings, and recommendations.
+Finally, document our analysis in a clear and concise manner. Create a report or presentation summarizing the analysis process, findings, and recommendations.
 
 ## Conclusion
 
-Performing Exploratory Data Analysis (EDA) is a crucial first step in any data analysis project. By following these steps and techniques, you can gain valuable insights into the dataset and make informed decisions based on the data.
+Performing Exploratory Data Analysis (EDA) is a crucial first step in any data analysis project. By following these steps and techniques, we can gain valuable insights into the dataset and make informed decisions based on the data.
