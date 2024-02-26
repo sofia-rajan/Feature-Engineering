@@ -1,5 +1,4 @@
 # Feature Engineering
-# EDA Practices
 
 # Zomato Dataset - Exploratory Data Analysis (EDA)
 
