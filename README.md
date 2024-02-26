@@ -62,4 +62,4 @@ This EDA project was conducted by Sofia Rajan.
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [License Name] License - see the [https://github.com/sofia-rajan/Feature-Engineering/blob/90ac5be88516926a46c2819472d0f7d19a53cc45/LICENSE](LICENSE) file for details.
