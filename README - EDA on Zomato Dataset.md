@@ -4,7 +4,7 @@ In this guide, we'll walk through the process of conducting Exploratory Data Ana
 
 ## Step 1: Understanding the Dataset
 
-Before diving into the analysis, it's essential to understand the dataset. The Zomato dataset contains information about restaurants, including their names, locations, cuisines, ratings, and more.
+The Zomato dataset provides comprehensive information about restaurants, cuisines, user ratings, and reviews from the Zomato platform, a popular online restaurant discovery service. It includes data on restaurant details such as location, cuisine types, cost for two, and aggregate ratings. Additionally, the dataset encompasses user-generated reviews and ratings, offering insights into the preferences and sentiments of diners. With its diverse range of attributes, the Zomato dataset is valuable for conducting analyses related to restaurant trends, customer preferences, and sentiment analysis within the food service industry.
 
 ## Step 2: Importing Libraries
 
